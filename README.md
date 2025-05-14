@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://velog.io/@chyb627/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-181717?style=flat-square&logo=velog&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/chyb627/" target="_blank">
     <img src="https://img.shields.io/badge/YoungBin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/>
