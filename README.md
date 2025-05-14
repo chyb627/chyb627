@@ -18,12 +18,16 @@
 ### 🧑‍💻 About Me
 
 <p>
-  &nbsp; 안녕하세요. 저는 프론트엔드 중심으로 커리어를 시작한 개발자 차영빈입니다.
-  React, Vue와 같은 프론트엔드 프레임워크는 물론, Express, NestJS 기반의 백엔드 개발도 경험했습니다.
-
-  AWS (Amplify, Route 53, S3, EC2, CloudFront 등)를 활용한 클라우드 인프라 운영 경험도 있으며,
-  신규 서비스 개발, 기존 서비스 리팩토링, CI/CD 도입, 성능 개선 등
-  다양한 과제를 주도하며 문제 해결을 위한 분석과 실행에 강점을 가지고 있습니다.
+  &nbsp; Hello! I'm Youngbin Cha, a developer who started my career focusing on frontend development.<br/>
+  
+  &nbsp; I have experience with frontend frameworks such as React and Vue, as well as backend development using Express and NestJS.<br/>
+  
+  &nbsp; I've also operated cloud infrastructure using AWS services like Amplify, Route 53, S3, EC2, and CloudFront.<br/>
+  &nbsp; I’ve led various projects including new service development, service refactoring, CI/CD implementation, and performance optimization,<br/>
+  &nbsp; and I have a strong ability to analyze and execute solutions to problems.<br/><br/>
+  
+  &nbsp; In my free time, I enjoy working out, hiking, and running to stay refreshed and maintain my physical health.😎<br/>
+  &nbsp; I value consistency and love taking on challenges — traits I strive to apply to my work as a developer.💪
 </p>
 
 ### 💪 Skills
